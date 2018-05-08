@@ -1,6 +1,6 @@
 main()
 {
-	int hi = 0;
+	int hi = 15;
 	return 0;
 }
 
